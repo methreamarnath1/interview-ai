@@ -123,4 +123,4 @@ Interviewify AI is built using:
 
 ## Contact
 
-For inquiries, please reach out at [mailto:methreamaarnath@gmail.com].
+For inquiries, please reach out at [mailto:methreamarnath@gmail.com].
